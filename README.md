@@ -1,8 +1,10 @@
 ## Helo there! Im Daniel Fiedler
 
-- 🔭 Full Stack Developer
-- 🌱 HTML / CSS / JS / REACT / React / Angular / PHP / NodeJS / SQL
-- 😄 Im looking to help social or distuptive projects
+- 🔭 Working on Boticario in Brazil
+- 🌱 Learning React, Flutter and Angular in frontend and about nodeJs, PHP and Java in Backend
+- 👯 Looking to collaborate on social or distuptive projects
+- 🤔 Looking for help with a new own company
+- 💬 Ask me about everything
 
 <div>
   <a href="https://github.com/dfiedlerx">
