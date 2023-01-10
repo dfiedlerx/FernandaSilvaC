@@ -1,13 +1,13 @@
-## Olá! Eu sou a Fernanda Silva 
+## Helo there! Im Daniel Fiedler
 
-- 🔭 Desenvolvedora Web 
-- 🌱 HTML / CSS / JS / REACT
-- 😄 Pronomes: ela/dela
+- 🔭 Full Stack Developer
+- 🌱 HTML / CSS / JS / REACT / React / Angular / PHP / NodeJS / SQL
+- 😄 Im lookig to help social or distuptive projects
 
 <div>
-  <a href="https://github.com/FernandaSilvaC">
+  <a href="https://github.com/dfiedlerx">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=dfiedlerx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaSilvaC&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfiedlerx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
