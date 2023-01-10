@@ -2,7 +2,7 @@
 
 - 🔭 Full Stack Developer
 - 🌱 HTML / CSS / JS / REACT / React / Angular / PHP / NodeJS / SQL
-- 😄 Im lookig to help social or distuptive projects
+- 😄 Im looking to help social or distuptive projects
 
 <div>
   <a href="https://github.com/dfiedlerx">
