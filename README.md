@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://github.com/FernandaSilvaC">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=FernandaSilvaC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=dfiedlerx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaSilvaC&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
@@ -26,9 +26,9 @@
   
   
   <br>
-  <a href="https://www.instagram.com/feernandayz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nanda.drew01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernanda-da-silva-4a2baa129/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/fiedler.daniel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "danielfiedler_@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-fiedler/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
    ![Snake animation](https://github.com/FernandaSilvaC/FernandaSilvaC/blob/output/github-contribution-grid-snake.svg)
 
